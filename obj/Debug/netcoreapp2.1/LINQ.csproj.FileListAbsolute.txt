@@ -1,0 +1,4 @@
+C:\Users\caljf\Documents\LINQ\obj\Debug\netcoreapp2.1\LINQ.csprojAssemblyReference.cache
+C:\Users\caljf\Documents\LINQ\obj\Debug\netcoreapp2.1\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\caljf\Documents\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfoInputs.cache
+C:\Users\caljf\Documents\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfo.cs
