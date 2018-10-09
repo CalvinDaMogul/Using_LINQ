@@ -15,7 +15,7 @@ namespace LINQ
         // numQuery is an IEnumerable<int>
         var numQuery =
             from num in numbers
-            where (num % 4) == 0
+            where (num % 6) == 0
             select num;
 
         // 3. Query execution.
