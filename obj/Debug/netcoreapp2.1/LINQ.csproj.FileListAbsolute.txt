@@ -2,3 +2,10 @@ C:\Users\caljf\Documents\LINQ\obj\Debug\netcoreapp2.1\LINQ.csprojAssemblyReferen
 C:\Users\caljf\Documents\LINQ\obj\Debug\netcoreapp2.1\LINQ.csproj.CoreCompileInputs.cache
 C:\Users\caljf\Documents\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfoInputs.cache
 C:\Users\caljf\Documents\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfo.cs
+C:\Users\caljf\Documents\LINQ\bin\Debug\netcoreapp2.1\LINQ.deps.json
+C:\Users\caljf\Documents\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.json
+C:\Users\caljf\Documents\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.dev.json
+C:\Users\caljf\Documents\LINQ\bin\Debug\netcoreapp2.1\LINQ.dll
+C:\Users\caljf\Documents\LINQ\bin\Debug\netcoreapp2.1\LINQ.pdb
+C:\Users\caljf\Documents\LINQ\obj\Debug\netcoreapp2.1\LINQ.dll
+C:\Users\caljf\Documents\LINQ\obj\Debug\netcoreapp2.1\LINQ.pdb
