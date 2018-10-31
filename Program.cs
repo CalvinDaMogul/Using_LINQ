@@ -23,7 +23,20 @@ namespace LINQ
         {
             Console.Write("{0,1} ", num);
         }
+
+        string[] cars = {"Camaro", "BMW", "Mercedes", "Bentley", "Hummer", "i8", "RangeRover"};
+		
+      //Get only short words
+      var carNames = from car in cars where car.Length <= 5 select car;
+	    
+      //Print each word out
+      foreach (var car in carNames) {
+         Console.WriteLine(car);
+      }	 
+		
+      Console.ReadLine();
+        }
     }
 }
 
-}
+
