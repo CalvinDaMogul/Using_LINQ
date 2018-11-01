@@ -26,7 +26,7 @@ namespace LINQ
         
         Console.ReadLine();
 
-        string[] cars = {"Camaro", "BMW", "Mercedes", "Bentley", "Hummer", "i8", "RangeRover"};
+        string[] cars = {"Camaro", "BMW", "Mercedes", "Bentley", "Hummer", "i8", "RangeRover", "Beamer","Cadillac","Rolls Royce"};
 		
       //Get only short words
       var carNames = from car in cars where car.Length >= 5 select car;
