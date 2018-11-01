@@ -29,7 +29,8 @@ namespace LINQ
         string[] cars = {"Camaro", "BMW", "Mercedes", "Bentley", "Hummer", "i8", "RangeRover", "Beamer","Cadillac","Rolls Royce"};
 		
       //Get only short words
-      var carNames = from car in cars where car.Length >= 3 select car;
+      var carNames = cars.Where( w => w.Length > 5);
+    //   var carNames = from car in cars where car.Length >= 3 select car;
 	    
       //Print each word out
       foreach (var car in carNames) {
