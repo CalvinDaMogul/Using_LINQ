@@ -45,7 +45,7 @@ namespace LINQ
       string[] Friends = {"Glenn","Terrence","Nicole","Kenny","Ericka","Trevor","Tobias","Amber","Lola","David","CeeJay",
                             "Cesar","Jurnell","Jerome","Kazadi","Teriq","Kenisha","Tony","Vincent"};
 
-    var myFriends = Friends.Where( w => w.Length > 4);
+    var myFriends = Friends.Where( w => w.Length > 5);
 
         foreach(var Friend in myFriends) {
             Console.Write(Friend +",");
