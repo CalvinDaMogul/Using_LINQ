@@ -32,7 +32,7 @@ namespace LINQ
       //Get only short words
     //   var carNames = from car in cars where car.Length >= 3 select car;
     // using Lambda Expression Syntax
-    var carNames = cars.Where( w => w.Length > 3);
+    var carNames = cars.Where( w => w.Length > 5);
 	    
       //Print each word out
       foreach (var car in carNames) {
